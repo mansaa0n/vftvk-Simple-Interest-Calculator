@@ -25,7 +25,7 @@ function updateRate()
     var rateval = document.getElementById("rate").value;
     var color = 'linear-gradient(90deg, red' + 50 + '%, white 10%, gray)';
     document.getElementById("rate_val").innerText=rateval;
-    document.getElementById("rate").style.background = 'linear-gradient(90deg, blue '+rateval*4.75+'%, #C1C1C1 '+(rateval*4.75)+'%)';
+    document.getElementById("rate").style.background = 'linear-gradient(90deg, #0D74F6 '+rateval*4.75+'%, #C1C1C1 '+(rateval*4.75)+'%)';
 }
 // function slider_lower_bound_color(){
 //     var slider = document.getElementById("rate");
