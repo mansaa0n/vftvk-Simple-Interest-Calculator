@@ -1,4 +1,7 @@
-body {background-color:black; font-family:arial;color;white}
+body {background-color:black; 
+font-family:arial;
+color;white;
+}
 h1{color:green;font-family:verdana}
 
 .maindiv {
@@ -6,6 +9,8 @@ h1{color:green;font-family:verdana}
     /* border-radius:25px; */
     border-top-right-radius:25px;
     border-top-left-radius:25px;
+    margin-top: 50%;
+    margin-left:50%;
     align:center
 }
 footer{
