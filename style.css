@@ -9,7 +9,7 @@ h1{color:green;font-family:verdana}
     /* border-radius:25px; */
     border-top-right-radius:25px;
     border-top-left-radius:25px;
-    margin-top: 50%;
+    margin-top: 20%;
     margin-left:50%;
     align:center
 }
@@ -19,6 +19,7 @@ footer{
     padding:20px;
     border-bottom-right-radius:25px;
     border-bottom-left-radius:25px;
+    margin-left:50%;
     align:center;
 }
 
